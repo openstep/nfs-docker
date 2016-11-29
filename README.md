@@ -2,6 +2,7 @@
 Script to manage Docker-based NFS server services with VLAN separation
 
 Ez a program a Docker alapu NFS szolgaltatas kezeleshez nyujt segitseget
+Ezen alapszik: https://github.com/mnagy/nfs-server
 
 
 # Keszitette: Dobo Csaba, dobocs@invitech.hu
